@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\测量实习\测量实习\bin\Debug\netcoreapp3.0\测量实习.exe
+C:\Users\Lenovo\source\repos\测量实习\测量实习\bin\Debug\netcoreapp3.0\测量实习.deps.json
+C:\Users\Lenovo\source\repos\测量实习\测量实习\bin\Debug\netcoreapp3.0\测量实习.runtimeconfig.json
+C:\Users\Lenovo\source\repos\测量实习\测量实习\bin\Debug\netcoreapp3.0\测量实习.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\测量实习\测量实习\bin\Debug\netcoreapp3.0\测量实习.dll
+C:\Users\Lenovo\source\repos\测量实习\测量实习\bin\Debug\netcoreapp3.0\测量实习.pdb
+C:\Users\Lenovo\source\repos\测量实习\测量实习\obj\Debug\netcoreapp3.0\测量实习.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\测量实习\测量实习\obj\Debug\netcoreapp3.0\测量实习.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\测量实习\测量实习\obj\Debug\netcoreapp3.0\测量实习.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\测量实习\测量实习\obj\Debug\netcoreapp3.0\测量实习.dll
+C:\Users\Lenovo\source\repos\测量实习\测量实习\obj\Debug\netcoreapp3.0\测量实习.pdb
